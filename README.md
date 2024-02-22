@@ -34,7 +34,7 @@ Note: Windows users need [Rtools](http://www.murdoch-sutherland.com/Rtools/) and
 
 ## Help
 
-- [Web Page](http://trinker.github.com/pacman/)       
+- [Web Page](https://trinker.github.io/pacman/)       
 - Vignettes:     
   - [HTML Vignette: Introduction to pacman](http://trinker.github.io/pacman/vignettes/Introduction_to_pacman.html)  
   - [pacman Functions: Quick Reference](http://trinker.github.io/pacman_dev/vignettes/pacman_functions_quick_reference.html) 
